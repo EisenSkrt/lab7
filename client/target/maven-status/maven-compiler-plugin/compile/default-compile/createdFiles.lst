@@ -1,0 +1,4 @@
+client\ClientController.class
+client\ClientApp.class
+client\events\GameUpdateEvent.class
+client\net\TicTacToeClient.class
